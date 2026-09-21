@@ -50,6 +50,3 @@ mysql> source 01-schema.sql;
 mysql> source 02-datos.sql;
 ```
 
-## Licencia
-
-Proyecto con fines educativos.
