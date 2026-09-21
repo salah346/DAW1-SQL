@@ -1,0 +1,15 @@
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Bases de datos
+*.sqlite
+*.db
+
+# Otros
+*.log
